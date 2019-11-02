@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import json
 from bs4 import BeautifulSoup
 from slugify import slugify
@@ -6,15 +7,26 @@ from tqdm import tqdm
 import parser
 import gutenberg
 import sys
+import csv
 
 index_path = sys.argv[1] # 'fixed.json'
 txt_dir = sys.argv[2] # 'data/raw'
 story_dir = sys.argv[3] # 'data/processed'
 
+if len(sys.argv) == 4:
+  parse_toc = parser.parse_toc2
+else:
+  parse_toc = parser.parse_toc3
+
+
 books = {}
 for (continent, country, book_title, url), titles in json.load(open(index_path, encoding='utf8')):
   key = slugify(book_title)
   books[key] = (continent, country, titles)
+
+
+story_index = open('story-index.csv', 'w', encoding='utf8')
+out = csv.writer(story_index)
 
 for filename in tqdm(listdir(txt_dir)):
 
@@ -26,13 +38,17 @@ for filename in tqdm(listdir(txt_dir)):
     soup = BeautifulSoup(text, 'html.parser')
 
     if titles:
-      rows = parser.parse_toc2(text, titles)
+      rows = parse_toc(text, titles)
     else:
       rows = parser.parse_toc1(text)
 
     for s, e in zip(rows, rows[1:]):
-      title, author, start_href = s
-      _, _, end_href = e
+      try:
+        title, author, start_href = s
+        _, _, end_href = e
+      except ValueError:
+        print (filename)
+        break
       
       start, end = soup.find(id=start_href[1:]), soup.find(id=end_href[1:])
       if start is None:
@@ -43,8 +59,9 @@ for filename in tqdm(listdir(txt_dir)):
 
       lines = parser.lines_between(start, end)
       story = gutenberg.strip_headers(''.join(lines)).strip()
-
-      open(path.join(story_dir, '%s.txt' % slugify(title)), 'w', encoding='utf8').write(story)
+      write_path = path.join(story_dir, '%s.txt' % slugify(title + ' by ' + author))
+      out.writerow([title, author, continent, country, write_path])
+      open(write_path, 'w', encoding='utf8').write(story)
   
   elif ext == '.txt':
     # txt
@@ -59,4 +76,6 @@ for filename in tqdm(listdir(txt_dir)):
       story = '\n'.join(lines).strip()
       if not story:
         print (title, filename)
-      open(path.join(story_dir, '%s.txt' % slugify(title)), 'w', encoding='utf8').write(story)
+      write_path = path.join(story_dir, '%s.txt' % slugify(title + ' by ' + author))
+      out.writerow([title, author, continent, country, write_path])
+      open(write_path, 'w', encoding='utf8').write(story)

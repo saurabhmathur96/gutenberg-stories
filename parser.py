@@ -36,6 +36,17 @@ def parse_toc2(text, titles):
         break
   return toc
 
+def parse_toc3(text, titles):
+  toc = []
+  soup = BeautifulSoup(text, 'html.parser')
+  for text, author in titles:
+    for a in soup.find_all('a', href=True):
+      if a.text.strip().lower().startswith(text.lower()):
+        toc.append((text, author, a.attrs['href']))
+        break
+  return toc
+
+
 def parse_text(text, titles):
   lines = gutenberg.strip_headers(text).strip().splitlines()
   i = -1
