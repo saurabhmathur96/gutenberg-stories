@@ -1,2 +1,3 @@
 # gutenberg-stories
-a coleections of short stories for project gutenberg
+
+A collection of short stories from project gutenberg 
