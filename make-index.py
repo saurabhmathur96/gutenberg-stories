@@ -14,7 +14,8 @@ for tag in soup.find(class_='mw-parser-output').children:
 
   if tag.name == 'h3':
     h3 = str(tag.text)
-  
+    h4 = ''
+    
   elif tag.name == 'h4':
     h4 = str(tag.text)
 
