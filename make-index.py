@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests, json
 from bs4 import BeautifulSoup
 
@@ -34,4 +35,4 @@ for tag in soup.find(class_='mw-parser-output').children:
     
     books.append((heading, links))
 
-print (json.dumps(books))
+print (json.dumps(books, indent=2))
