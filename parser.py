@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from operator import itemgetter
 
 def lines_between(cur, end):
-  while cur and cur != end:
+  while cur and cur not in end:
     if isinstance(cur, bs4.NavigableString) and cur.parent.name != 'a':
       text = str(cur)
       if cur.parent.name in ('i', 'b', 'strong'):

@@ -9,8 +9,8 @@ data_dir = sys.argv[2]
 
 stories = json.load(open(filename, 'r', encoding='utf8'))
 
-for title, author, url in stories:
+for i, (title, author, url) in enumerate(stories):
   
   text = requests.get(url).content.decode('utf8')
-  write_path = path.join(data_dir, '%s.txt' % slugify(title + ' by ' + author))
+  write_path = path.join(data_dir, '%s-0000-%04d.txt' % (slugify(title + ' by ' + author), i))
   open(write_path, 'w', encoding='utf8').write(text)

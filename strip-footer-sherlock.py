@@ -1,10 +1,8 @@
-from os import path
+from os import path, listdir
 import json
 
-from slugify import slugify
 
-stories = json.load(open('sherlock.json', 'r', encoding='utf8'))
-data_dir = path.join('manual' ,'processed')
+data_dir = path.join('sherlock' ,'processed')
 
 footer = '''     ----------
      This text is provided to you "as-is" without any warranty. No
@@ -18,9 +16,9 @@ footer = '''     ----------
 
      This text comes from the collection's version 3.1.'''
 
-for title, author, url in stories:
+for filename in listdir(data_dir):
 
-  story_path = path.join(data_dir, '%s.txt' % slugify(title + ' by ' + author))
+  story_path = path.join(data_dir, filename)
 
   text = open(story_path, 'r', encoding='utf8').read()
   text = text.replace(footer, '').strip()
