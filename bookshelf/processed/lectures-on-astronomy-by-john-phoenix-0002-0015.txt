@@ -1,12 +1,14 @@
 LECTURES ON ASTRONOMY
-By John Phoenix
-Introductory
-The following pages were originally prepared in the form of a course of
+
+ By John Phoenix
+
+ Introductory  The following pages were originally prepared in the form of a course of
 Lectures to be delivered before the Lowell Institute, of Boston, Mass.,
 but, owing to the unexpected circumstance of the author's receiving no
 invitation to lecture before that institution, they were laid aside
 shortly after their completion.
-Receiving an invitation from the trustees of the Vallecetos Literary and
+
+ Receiving an invitation from the trustees of the Vallecetos Literary and
 Scientific Institute, during the present summer, to deliver a course of
 Lectures on any popular subject, the author withdrew his manuscript from
 the dusty shelf on which it had long lain neglected, and, having
@@ -25,21 +27,26 @@ text-book, for the use of the higher schools and universities; it being
 his greatest ambition to render himself useful in his day and generation
 by widely disseminating the information he has acquired among those who,
 less fortunate, are yet willing to receive instruction.
-JOHN PHOENIX.
 
-San Diego Observatory, September 1, 1854.
+ JOHN PHOENIX.
 
+  San Diego Observatory
 
-Lectures on Astronomy—Part I
-CHAPTER I
-The term Astronomy is derived from two Latin words,—Astra, a star,
-and onomy, a science; and literally means the science of the stars.
+, September 1, 1854.
+
+  Lectures on Astronomy—Part I
+
+ CHAPTER I
+
+ The term Astronomy is derived from two Latin words,— Astra , a star,
+and onomy , a science; and literally means the science of the stars.
 "It is a science," to quote our friend Dick (who was no relation at all
 of Big Dick, though the latter occasionally caused individuals to see
 stars), "which has, in all ages, engaged the attention of the poet, the
 philosopher, and the divine, and been the subject of their study and
 admiration."
-By the wondrous discoveries of the improved telescopes of modern times,
+
+ By the wondrous discoveries of the improved telescopes of modern times,
 we ascertain that upward of several hundred millions of stars exist,
 that are invisible to the naked eye—the nearest of which is millions of
 millions of miles from the Earth; and as we have every reason to suppose
@@ -48,7 +55,8 @@ our own, a consideration of this fact—and that we are undoubtedly as
 superior to these beings as we are to the rest of mankind—is calculated
 to fill the mind of the American with a due sense of his own importance
 in the scale of animated creation.
-It is supposed that each of the stars we see in the Heavens in a
+
+ It is supposed that each of the stars we see in the Heavens in a
 cloudless night is a sun shining upon its own curvilinear, with light of
 its own manufacture; and as it would be absurd to suppose its light and
 heat were made to be diffused for nothing, it is presumed farther, that
@@ -56,15 +64,20 @@ each sun, like an old hen, is provided with a parcel of little chickens,
 in the way of planets, which, shining but feebly by its reflected light,
 are to us invisible. To this opinion we are led, also, by reasoning from
 analogy, on considering our own Solar System.
-The Solar System is so called, not because we believe it to be the sole
+
+ The Solar System
+
+is so called, not because we believe it to be the sole
 system of the kind in existence, but from its principal body, the Sun,
-the Latin name of which is Sol. (Thus we read of Sol Smith, literally
+the Latin name of which is Sol . (Thus we read of Sol Smith, literally
 meaning the son of Old Smith.) On a close examination of the Heavens
 we perceive numerous brilliant stars which shine with a steady light
 (differing from those which surround them, which are always twinkling
 like a dewdrop on a cucumber-vine), and which, moreover, do not preserve
 constantly the same relative distance from the stars near which they are
-first discovered. These are the planets of the Solar System, which have
+first discovered. These are the planets of the Solar System
+
+, which have
 no light of their own—of which the Earth, on which we reside, is
 one—which shine by light reflected from the Sun—and which regularly
 move around that body at different intervals of time and through
@@ -74,7 +87,8 @@ was supposed by our stupid ancestors that the Earth was the center of
 all creation, being a large, flat body resting on a rock which rested on
 another rock, and so on "all the way down"; and that the Sun, planets
 and immovable stars all revolved about it once in twenty-four hours.
-This reminds us of the simplicity of a child we once saw in a
+
+ This reminds us of the simplicity of a child we once saw in a
 railroad-car, who fancied itself perfectly stationary, and thought the
 fences, houses and fields were tearing past it at the rate of thirty
 miles an hour;—and poking out its head, to see where on earth they went
@@ -84,13 +98,13 @@ the firm of Pernicus & Co., wool-dealers, and who was named Co.
 Pernicus, out of respect to his father's partners) soon set this matter
 to rights, and started the idea of the present Solar System, which,
 greatly improved since his day, is occasionally called the Copernican
-system. By this system we learn that the Sun is stationed at one focus
-(not hocus, as it is rendered, without authority by the philosopher
+system. By this system we learn that the Sun is stationed at one focus (not hocus, as it is rendered, without authority by the philosopher
 Partington) of an ellipse, where it slowly grinds on for ever about its
 own axis, while the planets, turning about their axes, revolve in
 elliptical orbits of various dimensions and different planes of
 inclination around it.
-The demonstration of this system in all its perfection was left to Isaac
+
+ The demonstration of this system in all its perfection was left to Isaac
 Newton, an English Philosopher, who, seeing an apple tumble down from a
 tree, was led to think thereon with such gravity, that he finally
 discovered the attraction of gravitation, which proved to be the great
@@ -102,23 +116,28 @@ apple, and a sour one at that, would have produced these great
 results;—for, had the fallen fruit been a pear, an orange, or a peach,
 there is little doubt that Newton would have eaten it up and thought no
 more on the subject.
-As in this world you will hardly ever find a man so small but that he
+
+ As in this world you will hardly ever find a man so small but that he
 has someone else smaller than he, to look up to and revolve around him,
 so in the Solar System we find that the majority of the planets have one
 or more smaller planets revolving about them. These small bodies are
 termed secondaries, moons or satellites—the planets themselves being
 called primaries.
-We know at present of eighteen primaries, viz.: Mercury, Venus, the
+
+ We know at present of eighteen primaries, viz.: Mercury, Venus, the
 Earth, Mars, Flora, Vesta, Iris, Metis, Hebe, Astrea, Juno, Ceres,
 Pallas, Hygeia, Jupiter, Saturn, Herschel, Neptune, and another, yet
 unnamed. There are distributed among these, nineteen secondaries, all of
 which, except our Moon, are invisible to the naked eye.
-We shall now proceed to consider, separately, the different bodies
+
+ We shall now proceed to consider, separately, the different bodies
 composing the Solar System, and to make known what little information,
 comparatively speaking, science has collected regarding them. And, first
 in order, as in place, we come to
-THE SUN
-This glorious orb may be seen almost any clear day, by looking intently
+
+ THE SUN
+
+ This glorious orb may be seen almost any clear day, by looking intently
 in its direction, through a piece of smoked glass. Through this medium
 it appears about the size of a large orange, and of much the same color.
 It is, however, somewhat larger, being in fact 887,000 miles in
@@ -142,7 +161,7 @@ San Diego, however, and it is very improbable that it ever will be.
 Sacred history informs us that a distinguished military man, named
 Joshua, once caused the Sun to "stand still"; how he did it, is not
 mentioned. There can, of course, be no doubt of the fact, that he
-arrested its progress, and possibly caused it to "stand still";—but
+arrested its progress, and possibly caused it to "stand still ";—but
 translators are not always perfectly accurate, and we are inclined to
 the opinion that it might have wiggled a very little, when Joshua was
 not looking directly at it. The statement, however, does not appear so
@@ -151,7 +170,8 @@ actually bringing the Sun down to the horizon every day at 12
 Meridian. This they effect by means of a tool made of brass, glass, and
 silver, called a sextant. The composition of the Sun has long been a
 matter of dispute.
-By close and accurate observation with an excellent opera-glass we have
+
+ By close and accurate observation with an excellent opera-glass we have
 arrived at the conclusion that its entire surface is covered with water
 to a very great depth; which water, being composed by a process known at
 present only to the Creator of the Universe and Mr. Paine, of Worcester,
@@ -170,16 +190,21 @@ increase to an indefinite extent, and that many persons would make large
 fortunes by the sudden rise in value of coal, wood, candles, and gas,
 which would go to illustrate the truth of the old proverb, "It's an ill
 wind that blows nobody any good."
-Upon the whole, the Sun is a glorious creation; pleasing to gaze upon
+
+ Upon the whole, the Sun is a glorious creation; pleasing to gaze upon
 (through smoked glass), elevating to think upon, and exceedingly
 comfortable to every created being on a cold day; it is the largest, the
 brightest, and may be considered by far the most magnificent object in
 the celestial sphere; though with all these attributes it must be
 confessed that it is occasionally entirely eclipsed by the moon.
-CHAPTER II
-We shall now proceed to the consideration of the several planets.
-MERCURY
-This planet, with the exception of the asteroids, is the smallest of the
+
+ CHAPTER II
+
+ We shall now proceed to the consideration of the several planets.
+
+ MERCURY
+
+ This planet, with the exception of the asteroids, is the smallest of the
 system. It is the nearest to the Sun, and, in consequence, can not be
 seen (on account of the Sun's superior light), except at its greatest
 eastern and western elongations, which occur in March and April, August
@@ -197,32 +222,37 @@ extremely inaccessible, inconvenient, and, doubtless, singularly
 uncomfortable. It receives its name from the God, Mercury, in the
 Heathen Mythology, who is the patron and tutelary Divinity of San Diego
 County.
-VENUS
-This beautiful planet may be seen either a little after sunset or
+
+ VENUS
+
+ This beautiful planet may be seen either a little after sunset or
 shortly before sunrise, according as it becomes the morning or the
 evening star, but never departing quite forty-eight degrees from the
 Sun. Its day is about twenty-five minutes shorter than ours; its year
 seven and a half months or thirty-two weeks. The diameter of Venus is
 7,700 miles, and she receives from the Sun thrice as much light and heat
 as the Earth.
-An old Dutchman named Schroeter spent more than ten years in
+
+ An old Dutchman named Schroeter spent more than ten years in
 observations on this planet, and finally discovered a mountain on it
 twenty-two miles in height, but he never could discover anything on the
 mountain, not even a mouse, and finally died about as wise as when he
 commenced his studies.
-Venus, in Mythology, was a Goddess of singular beauty, who became the
+
+ Venus, in Mythology, was a Goddess of singular beauty, who became the
 wife of Vulcan, the blacksmith, and, we regret to add, behaved in the
-most immoral manner after her marriage. The celebrated case of Vulcan
-vs. Mars, and the consequent scandal, is probably still fresh in the
-minds of our readers. By a large portion of society, however, she was
+most immoral manner after her marriage. The celebrated case of Vulcan vs. Mars, and the consequent scandal, is probably still fresh in the
+minds of our readers. By a large portion of so ciety, however, she was
 considered an ill-used and persecuted lady, against whose high tone of
 morals and strictly virtuous conduct not a shadow of suspicion could be
 cast; Vulcan, by the same parties, was considered a horrid brute, and
 they all agreed that it served him right when he lost his case and had
 to pay the costs of court. Venus still remains the Goddess of Beauty,
 and not a few of her protégés may be found in California.
-THE EARTH
-The Earth, or as the Latins called it, Tellus (from which originated the
+
+ THE EARTH
+
+ The Earth, or as the Latins called it, Tellus (from which originated the
 expression, "Do tell us"), is the third planet in the Solar System, and
 the one on which we subsist, with all our important joys and sorrows.
 The San Diego Herald is published weekly on this planet, for five
@@ -234,14 +264,15 @@ planets of the system are filled with living, moving and sentient
 beings; and as some of them are superior to the Earth in size and
 position, it is not improbable that their inhabitants may be superior to
 us in physical and mental organization.
-But if this were a demonstrable fact, instead of a mere hypothesis, it
+
+ But if this were a demonstrable fact, instead of a mere hypothesis, it
 would be found a very difficult matter to persuade us of its truth. To
 the inhabitants of Venus the Earth appears like a brilliant star—very
-much, in fact, as Venus appears to us; and, reasoning from analogy, we
-are led to believe that the election of Mr. Pierce, the European war, or
+much, in fact, as Venus appears to us; and, reasoning from analogy, we are led to believe that the election of Mr. Pierce, the European war, or
 the split in the great Democratic party produced but very little
 excitement among them.
-To the inhabitants of Jupiter, our important globe appears like a small
+
+ To the inhabitants of Jupiter, our important globe appears like a small
 star of the fourth or fifth magnitude. We recollect, some years ago,
 gazing with astonishment upon the inhabitants of a drop of water,
 developed by the Solar Microscope, and secretly wondering whether they
@@ -261,7 +292,8 @@ the death of an individual man on this Earth, though perhaps as
 important an event as can occur to himself, is calculated to cause no
 great convulsion of Nature or disturb particularly the great aggregate
 of created beings.
-The Earth moves round the Sun from west to east in a year, and turns on
+
+ The Earth moves round the Sun from west to east in a year, and turns on
 its axis in a day; thus moving at the rate of 68,000 miles an hour in
 its orbit, and rolling around at the tolerably rapid rate of 1,040
 miles per hour. As our readers may have seen that when a man is
@@ -274,7 +306,8 @@ chattels, would be thrown off into the air at a speed of 173 miles a
 minute, every mother's son of us describing the arc of a parabola, which
 is probably the only description we should ever be able to give of the
 affair.
-This catastrophe, to one sufficiently collected to enjoy it, would,
+
+ This catastrophe, to one sufficiently collected to enjoy it, would,
 doubtless, be exceedingly amusing; but as there would probably be no
 time for laughing, we pray that it may not occur until after our demise;
 when, should it take place, our monument will probably accompany the
@@ -286,7 +319,8 @@ traveling to the West do not live as long by a day or two as they would
 if they had stayed at home; and supposing each Yankee's time to be worth
 $1.50 per day, it may be easily shown that a considerable amount of
 money is annually lost by their roving dispositions.
-Science is yet but in its infancy; with its growth, new discoveries of
+
+ Science is yet but in its infancy; with its growth, new discoveries of
 an astounding nature will doubtless be made, among which, probably, will
 be some method by which the course of the Earth may be altered and it
 be steered with the same ease and regularity through space and among the
@@ -296,70 +330,89 @@ to the air, off Jupiter, while the Moon is sent off laden with mails and
 passengers for that planet, to bring back the return mails and a large
 party of rowdy Jupiterians going to attend a grand prize fight in the
 ring of Saturn.
-Well, Christopher Columbus would have been just as much astonished at a
+
+ Well, Christopher Columbus would have been just as much astonished at a
 revelation of the steamboat and the locomotive engine as we should be to
 witness the above performance, which our intelligent posterity during
 the ensuing year A.D. 2000 will possibly look upon as a very ordinary
 and common-place affair.
-Only three days ago we asked a medium where Sir John Franklin was at
+
+ Only three days ago we asked a medium where Sir John Franklin was at
 that time; to which he replied, he was cruising about (officers and crew
 all well) on the interior of the Earth, to which he had obtained
-entrance through Symmes Hole!
-With a few remarks upon the Earth's Satellite, we conclude the first
+entrance through Symmes Hole
+
+!
+
+ With a few remarks upon the Earth's Satellite, we conclude the first
 Lecture on Astronomy; the remainder of the course being contained in a
 second Lecture, treating of the planets, Mars, Jupiter, Saturn and
 Neptune, the Asteroids, and the fixed stars, which last, being
 "fixings," are, according to Mr. Charles Dickens, American property.
-THE MOON
-This resplendent luminary, like a youth on the Fourth of July, has its
+
+ THE MOON
+
+ This resplendent luminary, like a youth on the Fourth of July, has its
 first quarter; like a ruined spendthrift its last quarter, and like an
 omnibus, is occasionally full and new. The evenings on which it appears
 between these last stages are beautifully illumined by its clear, mellow
 light.
-The Moon revolves in an elliptical orbit about the Earth in twenty-nine
+
+ The Moon revolves in an elliptical orbit about the Earth in twenty-nine
 days twelve hours forty-four minutes and three seconds, the time which
 elapses between one new Moon and another. It was supposed by the ancient
 philosophers that the Moon was made of green cheese, an opinion still
 entertained by the credulous and ignorant. Kepler and Tyco Brahe,
 however, held to the opinion that it was composed of Charlotte Russe,
 the dark portions of its surface being sponge cake, the light blanc
-mange. Modern advances in science and the use of Lord Rosse's famous
+mange . Modern advances in science and the use of Lord Rosse's famous
 telescope have demonstrated the absurdity of all these speculations by
-proving conclusively that the Moon is mainly composed of the
-Ferro—sesqui—cyanuret, of the cyanide of potassium! Up to the
+proving conclusively that the Moon is mainly composed of the Ferro — sesqui — cyanuret, of the cyanide of potassium ! Up to the
 latest dates from the Atlantic States, no one has succeeded in reaching
 the Moon. Should anyone do so hereafter, it will probably be a woman, as
 the sex will never cease making an exertion for that purpose as long as
 there is a man in it.
-Upon the whole, we may consider the Moon an excellent institution, among
+
+ Upon the whole, we may consider the Moon an excellent institution, among
 the many we enjoy under a free, republican form of government, and it is
 a blessed thing to reflect that the President of the United States can
 not veto it, no matter how strong an inclination he may feel, from
 principle or habit, to do so.
-It has been ascertained beyond a doubt that the Moon has no air.
+
+ It has been ascertained beyond a doubt that the Moon has no air.
 Consequently, the common expressions, "the Moon was gazing down with an
 air of benevolence," or with "an air of complacency," or with "an air of
 calm superiority," are incorrect and objectionable, the fact being that
 the Moon has no air at all.
-The existence of the celebrated "Man in the Moon" has been frequently
+
+ The existence of the celebrated "Man in the Moon" has been frequently
 questioned by modern philosophers. The whole subject is involved in
 doubt and obscurity. The only authority we have for believing that such
 an individual exists, and has been seen and spoken with, is a fragment
 of an old poem composed by an ancient Astronomer of the name of Goose,
 which has been handed down to us as follows:
 
-"The man in the Moon came down too soon
-To inquire the way to Norwich;
-The man in the South, he burned his mouth,
-Eating cold, hot porridge."
+  "The man in the Moon came down too soon 
 
-The evidence conveyed in this distich is, however, rejected by the
+ To inquire the way to Norwich; 
+
+ The man in the South, he burned his mouth, 
+
+ Eating cold, hot porridge." 
+
+
+
+ The evidence conveyed in this distich is, however, rejected by the
 skeptical, among modern Astronomers, who consider the passage an
 allegory. "The man in the South," being supposed typical of the late
 John C. Calhoun, and the "cold, hot porridge," alluded to the project of
 nullification.
-END OF LECTURE FIRST
-Note by the Author—Itinerant Lecturers are cautioned against
+
+ END OF LECTURE FIRST
+
+ Note by the Author
+
+—Itinerant Lecturers are cautioned against
 making use of the above production, without obtaining the necessary
 authority from the proprietors of the Pioneer Magazine. To those
 who may obtain such authority, it may be well to state that at the
@@ -367,15 +420,18 @@ close of the Lecture it was the intention of the author to exhibit
 and explain to the audience an orrery, accompanying and
 interspersing his remarks by a choice selection of popular airs on
 the hand-organ.
-An economical orrery may be constructed by attaching eighteen wires
+
+ An economical orrery may be constructed by attaching eighteen wires
 of graduated lengths to the shaft of a candlestick, apples of
 different sizes being placed at their extremities to represent the
 Planets, and a central orange resting on the candlestick,
 representing the Sun.
-An orrery of this description is, however, liable to the objection
+
+ An orrery of this description is, however, liable to the objection
 that if handed around among the audience for examination, it is
 seldom returned uninjured. The author has known an instance in
 which a child four years of age, on an occasion of this kind,
 devoured in succession the planets Jupiter and Herschel, and bit a
 large spot out of the Sun before he could be arrested.
-J.P.
+
+ J.P.

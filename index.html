@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans|Lato" rel="stylesheet">
+
+    <style>body{margin:1em auto; margin-top: 1.6em; max-width:35em;padding:0.62em;font:1.2em/1.62 'Droid Sans',sans-serif;color:#333;line-height: 1.45;}h1,h2,h3{line-height:1em;letter-spacing:-0.1ex;font-family:'Lato',sans-serif;font-weight:normal;font-size: 1.9416em;color:#222;}#author{color:#888;font-size: 70%;display: block;letter-spacing: -0.07ex;}table{text-align: left}@media print{body{max-width:none}}</style>
+</head>
+
+
+<body>
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>Title</th>
+          <th>Author</th>
+        </tr>
+      </thead>
+      <tbody id="rows">
+        
+      </tbody>
+      <tfoot>
+        <tr> <td><button onclick="previous()">Previous</button></td> <td><button onclick="next()">Next</button></td> </tr>
+      </tfoot>
+    </table>
+  <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
+  <script type="text/javascript">
+    var self = {}
+    var pageSize = 10;
+
+    function render(container, start) {
+      console.log('render')
+      console.log(container)
+      console.log(start)
+      console.log(self.stories.length)
+      container.empty();
+
+      for (var i=0; i<pageSize; i++) {
+        var index = (start + i) % self.stories.length;
+        var story = self.stories[index];
+        var url = 'story.html?' + $.param(story)
+        var link = '<a href="' + url + '">' + story.title + '</a>';
+        var row = '<tr> <td>' + index + '</td><td>' + link + '</td> <td>' + story.author + '</td>';
+        container.append( row );    
+      }
+      return index;
+    }
+
+    function previous() {
+      self.start -= pageSize;
+
+      if (self.start < 0) {
+        self.start += self.stories.length;
+      }
+      self.end = render($('#rows'), self.start);
+    }
+
+    function next() {
+      console.log('next')
+      
+      self.start = (self.end + 1) % self.stories.length;
+      self.end = render($('#rows'), self.start);
+    }
+
+    $( document ).ready(function () {
+      $.get('merged.json',
+            function (data, textStatus, jqXHR) {
+                self.stories = data;
+                self.start = 0;
+                self.end = render($('#rows'), 0)
+
+            })
+    });
+  </script>
+ </body>
+ </html>

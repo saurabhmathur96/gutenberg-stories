@@ -7,11 +7,15 @@ def lines_between(cur, end):
   while cur and cur not in end:
     if isinstance(cur, bs4.NavigableString) and cur.parent.name != 'a':
       text = str(cur)
-      if cur.parent.name in ('i', 'b', 'strong'):
-        text = text.strip()
-
+      # text = text.strip()
+      if cur.parent.name not in ('i', 'b', 'strong') and cur.next_sibling is None:
+        text = text.strip() + '\n\n'
+      else:
+        text = text.strip() + ' '
       if len(text):
         yield text
+    elif cur.name == 'br':
+      yield '\n\n'
     cur = cur.next_element
     
     
@@ -59,16 +63,17 @@ def parse_text(text, titles):
   authors = [author for _, author in titles]
   
   for line in lines:
-    if not line or line in authors:
-      continue
-    for title, author in titles:
-      cond1 = line.replace('_', ' ').replace('[1]', '').rstrip('*').strip() == title
-      cond2 = line.replace('_', ' ').strip().startswith(title.upper())
-      if cond1 or cond2:
-        key = (title, author)
-        stories[key] = []
-        line = ''
-        break
+    if line:
+      if line in authors:
+        continue
+      for title, author in titles:
+        cond1 = line.replace('_', ' ').replace('[1]', '').rstrip('*').strip() == title
+        cond2 = line.replace('_', ' ').strip().startswith(title.upper())
+        if cond1 or cond2:
+          key = (title, author)
+          stories[key] = []
+          line = ''
+          break
     if key:
       stories[key].append(line)
 

@@ -1,5 +1,8 @@
 A MATHEMATICAL DEMONSTRATION.
+
 BY E.P. MITCHELL.
+
+
 There was nothing mysterious about Professor Surd's dislike for me. I
 was the only poor mathematician in an exceptionally mathematical class.
 The old gentleman sought the lecture-room every morning with eagerness,
@@ -8,6 +11,7 @@ young men who, individually and collectively, preferred _x_ to XX; who
 had rather differentiate than dissipate; and for whom the limbs of the
 heavenly bodies had more attractions than those of earthly stars upon
 the spectacular stage?
+
 So affairs went on swimmingly between the Professor of Mathematics and
 the Junior Class at Polyp University. In every man of the seventy the
 sage saw the logarithm of a possible La Place, of a Sturm, or of a
@@ -16,6 +20,7 @@ pleasant valleys of conic sections, and beside the still waters of the
 integral calculus. Figuratively speaking, his problem was not a hard
 one. He had only to manipulate, and eliminate, and to raise to a higher
 power, and the triumphant result of examination day was assured.
+
 But I was a disturbing element, a perplexing unknown quantity, which had
 somehow crept into the work, and which seriously threatened to impair
 the accuracy of his calculations. It was a touching sight to behold the
@@ -28,11 +33,13 @@ Furnace Second was reduced to zero in Professor Surd's estimation. He
 looked upon me with all the horror which an unalgebraic nature could
 inspire. I have seen the Professor walk around an entire square rather
 than meet the man who had no mathematics in his soul.
+
 For Furnace Second were no invitations to Professor Surd's house.
 Seventy of the class supped in delegations around the periphery of the
 Professor's tea-table. The seventy-first knew nothing of the charms of
 that perfect ellipse, with its twin bunches of fuchsias and geraniums
 in gorgeous precision at the two foci.
+
 This, unfortunately enough, was no trifling deprivation. Not that I
 longed especially for segments of Mrs. Surd's justly celebrated lemon
 pies; not that the spheroidal damsons of her excellent preserving had
@@ -42,22 +49,26 @@ paradoxes. The explanation is far different. Professor Surd had a
 daughter. Twenty years before, he made a proposition of marriage to the
 present Mrs. S. He added a little Corollary to his proposition not long
 after. The Corollary was a girl.
+
 Abscissa Surd was as perfectly symmetrical as Giotto's circle, and as
 pure, withal, as the mathematics her father taught. It was just when
 spring was coming to extract the roots of frozen-up vegetation that I
 fell in love with the Corollary. That she herself was not indifferent I
 soon had reason to regard as a self-evident truth.
+
 The sagacious reader will already recognize nearly all the elements
 necessary to a well-ordered plot. We have introduced a heroine, inferred
 a hero, and constructed a hostile parent after the most approved model.
 A movement for the story, a _Deus ex machina_, is alone lacking. With
 considerable satisfaction I can promise a perfect novelty in this line,
 a _Deus ex machina_ never before offered to the public.
+
 It would be discounting ordinary intelligence to say that I sought with
 unwearying assiduity to figure my way into the stern father's good-will;
 that never did dullard apply himself to mathematics more patiently than
 I; that never did faithfulness achieve such meagre reward. Then I
 engaged a private tutor. His instructions met with no better success.
+
 My tutor's name was Jean Marie Rivarol. He was a unique Alsatian--though
 Gallic in name, thoroughly Teuton in nature; by birth a Frenchman, by
 education a German. His age was thirty; his profession, omniscience; the
@@ -73,44 +84,57 @@ for scientific journals, or by giving assistance to students who, like
 myself, were characterized by a plethora of purse and a paucity of
 ideas; cooking, studying and sleeping in his attic lodgings; and
 prosecuting queer experiments all by himself.
+
 We were not long discovering that even this eccentric genius could not
 transplant brains into my deficient skull. I gave over the struggle in
 despair. An unhappy year dragged its slow length around. A gloomy year
 it was, brightened only by occasional interviews with Abscissa, the
 Abbie of my thoughts and dreams.
+
 Commencement day was coming on apace. I was soon to go forth, with the
 rest of my class, to astonish and delight a waiting world. The Professor
 seemed to avoid me more than ever. Nothing but the conventionalities, I
 think kept him from shaping his treatment of me on the basis of
 unconcealed disgust.
+
 At last, in the very recklessness of despair, I resolved to see him,
 plead with him, threaten him if need be, and risk all my fortunes on one
 desperate chance. I wrote him a somewhat defiant letter, stating my
 aspirations, and, as I flattered myself, shrewdly giving him a week to
 get over the first shock of horrified surprise. Then I was to call and
 learn my fate.
+
 During the week of suspense I nearly worried myself into a fever. It was
 first crazy hope, and then saner despair. On Friday evening, when I
 presented myself at the Professor's door, I was such a haggard, sleepy,
 dragged-out spectre, that even Miss Jocasta, the harsh-favored maiden
 sister of the Surd's, admitted me with commiserate regard, and suggested
 pennyroyal tea.
+
 Professor Surd was at a faculty meeting. Would I wait?
+
 Yes, till all was blue, if need be. Miss Abbie?
+
 Abscissa had gone to Wheelborough to visit a school-friend. The aged
 maiden hoped I would make myself comfortable, and departed to the
 unknown haunts which knew Jocasta's daily walk.
+
 Comfortable! But I settled myself in a great uneasy chair and waited,
 with the contradictory spirit common to such junctures, dreading every
 step lest it should herald the man whom, of all men, I wished to see.
+
 I had been there at least an hour, and was growing right drowsy.
+
 At length Professor Surd came in. He sat down in the dusk opposite me,
 and I thought his eyes glinted with malignant pleasure as he said,
 abruptly:
+
 "So, young man, you think you are a fit husband for my girl?"
+
 I stammered some inanity about making up in affection what I lacked in
 merit; about my expectations, family and the like. He quickly
 interrupted me.
+
 "You misapprehend me, sir. Your nature is destitute of those
 mathematical perceptions and acquirements which are the only sure
 foundations of character. You have no mathematics in you. You are fit
@@ -119,24 +143,30 @@ cannot understand and appreciate a generous mind. There is all the
 difference between you and a Surd, if I may say it, which intervenes
 between an infinitesimal and an infinite. Why, I will even venture to
 say that you do not comprehend the Problem of the Couriers!"
+
 I admitted that the Problem of the Couriers should be classed rather
 without my list of accomplishments than within it. I regretted this
 fault very deeply, and suggested amendment. I faintly hoped that my
 fortune would be such--
+
 "Money!" he impatiently exclaimed. "Do you seek to bribe a Roman Senator
 with a penny whistle? Why, boy, do you parade your paltry wealth, which,
 expressed in mills, will not cover ten decimal places, before the eyes
 of a man who measures the planets in their orbits, and close crowds
 infinity itself?"
+
 I hastily disclaimed any intention of obtruding my foolish dollars, and
 he went on:
+
 "Your letter surprised me not a little. I thought _you_ would be the
 last person in the world to presume to an alliance here. But having a
 regard for you personally"--and again I saw malice twinkle in his small
 eyes--"and still more regard for Abscissa's happiness, I have decided
 that you shall have her--upon conditions. Upon conditions," he repeated,
 with a half-smothered sneer.
+
 "What are they?" cried I, eagerly enough. "Only name them."
+
 "Well, sir," he continued, and the deliberation of his speech seemed the
 very refinement of cruelty, "you have only to prove yourself worthy an
 alliance with a mathematical family. You have only to accomplish a task
@@ -160,29 +190,35 @@ tardy Courier over his road at the rate of sixty miles a minute.
 Demonstrate me this discovery (when you have made it!) mathematically,
 and approximate it practically, and Abscissa is yours. Until you can, I
 will thank you to trouble neither myself nor her."
+
 I could stand his mocking no longer. I stumbled mechanically out of the
 room, and out of the house. I even forgot my hat and gloves. For an
 hour I walked in the moonlight. Gradually I succeeded to a more hopeful
 frame of mind. This was due to my ignorance of mathematics. Had I
 understood the real meaning of what he asked, I should have been utterly
 despondent.
+
 Perhaps this problem of sixty miles a minute was not so impossible after
 all. At any rate I could attempt, though I might not succeed. And
 Rivarol came to my mind. I would ask him. I would enlist his knowledge
 to accompany my own devoted perseverance. I sought his lodgings at once.
+
 The man of science lived in the fourth story, back. I had never been in
 his room before. When I entered, he was in the act of filling a beer mug
 from a carboy labelled _Aqua fortis_.
+
 "Seat you," he said. "No, not in that chair. That is my Petty Cash
 Adjuster." But he was a second too late. I had carelessly thrown myself
 into a chair of seductive appearance. To my utter amazement it reached
 out two skeleton arms and clutched me with a grasp against which I
 struggled in vain. Then a skull stretched itself over my shoulder and
 grinned with ghastly familiarity close to my face.
+
 Rivarol came to my aid with many apologies. He touched a spring
 somewhere and the Petty Cash Adjuster relaxed its horrid hold. I placed
 myself gingerly in a plain cane-bottomed rocking-chair, which Rivarol
 assured me was a safe location.
+
 "That seat," he said, "is an arrangement upon which I much felicitate
 myself. I made it at Heidelberg. It has saved me a vast deal of small
 annoyance. I consign to its embraces the friends who bore, and the
@@ -191,9 +227,11 @@ terrifying some tradesman with an insignificant account. Hence the pet
 name which I have facetiously given it. They are invariably too glad to
 purchase release at the price of a bill receipted. Do you well apprehend
 the idea?"
+
 While the Alsatian diluted his glass of _Aqua fortis_, shook into it an
 infusion of bitters, and tossed off the bumper with apparent relish, I
 had time to look around the strange apartment.
+
 The four corners of the room were occupied respectively by a
 turning-lathe, a Rhumkorff Coil, a small steam-engine and an orrery in
 stately motion. Tables, shelves, chairs and floor supported an odd
@@ -204,8 +242,10 @@ Archimedes, and Comte, while a great drowsy owl was blinking away,
 perched on the benign brow of Martin Farquhar Tupper. "He always roosts
 there when he proposes to slumber," explained my tutor. "You are a bird
 of no ordinary mind. _Schlafen Sie wohl_."
+
 Through a closet door, half open, I could see a human-like form covered
 with a sheet. Rivarol caught my glance.
+
 "That," said he, "will be my masterpiece. It is a Microcosm, an
 Android, as yet only partially complete. And why not? Albertus Magnus
 constructed an image perfect to talk metaphysics and confute the
@@ -219,8 +259,10 @@ original discourses as the Rev. Dr. Allchin, or talk poetry as
 mechanically as Paul Anapest? My Android can already work problems in
 vulgar fractions and compose sonnets. I hope to teach it the Positive
 Philosophy."
+
 Out of the bewildering confusion of his effects Rivarol produced two
 pipes and filled them. He handed one to me.
+
 "And here," he said, "I live and am tolerably comfortable. When my coat
 wears out at the elbows I seek the tailor and am measured for another.
 When I am hungry I promenade myself to the butcher's and bring home a
@@ -229,8 +271,10 @@ oxy-hydrogen flame. Thirsty, perhaps, I send for a carboy of _Aqua
 fortis_. But I have it charged, all charged. My spirit is above any
 small pecuniary transaction. I loathe your dirty greenbacks, and never
 handle what they call scrip."
+
 "But are you never pestered with bills?" I asked. "Don't the creditors
 worry your life out?"
+
 "Creditors!" gasped Rivarol. "I have learned no such word in your very
 admirable language. He who will allow his soul to be vexed by creditors
 is a relic of an imperfect civilization. Of what use is science if it
@@ -246,9 +290,11 @@ time he reaches the top of the first flight I have a pretty accurate
 description of him right here at my elbow, and quite a margin of time
 for deliberation and action. Do you follow me? It is plain enough. Only
 the A B C of my science."
+
 "I see all that," I said, "but I don't see how it helps you any. The
 knowledge that a creditor is coming won't pay his bill. You can't escape
 unless you jump out of the window."
+
 Rivarol laughed softly. "I will tell you. You shall see what becomes of
 any poor devil who goes to demand money of me--of a man of science. Ha!
 ha! It pleases me. I was seven weeks perfecting my Dun Suppressor. Did
@@ -278,20 +324,24 @@ to eternal rest at the centre of the sphere. I am not slow to give a
 practical application to any such grand discovery. My Dun Suppressor was
 born of it. A trap, just outside my chamber door: a spring in here: a
 creditor on the trap:--need I say more?"
+
 "But isn't it a trifle inhuman?" I mildly suggested. "Plunging an
 unhappy being into a perpetual journey to and from Kerguellen's Land,
 without a moment's warning."
+
 "I give them a chance. When they come up the first time I wait at the
 mouth of the shaft with a rope in hand. If they are reasonable and will
 come to terms, I fling them the line. If they perish, 'tis their own
 fault. Only," he added, with a melancholy smile, "the centre is getting
 so plugged up with creditors that I am afraid there soon will be no
 choice whatever for 'em."
+
 By this time I had conceived a high opinion of my tutor's ability. If
 anybody could send me waltzing through space at an infinite speed,
 Rivarol could do it. I filled my pipe and told him the story. He heard
 with grave and patient attention. Then, for full half an hour, he
 whiffed away in silence. Finally he spoke.
+
 "The ancient cipher has overreached himself. He has given you a choice
 of two problems, both of which he deems insoluble. Neither of them is
 insoluble. The only gleam of intelligence Old Cotangent showed was when
@@ -306,16 +356,22 @@ loveliest of her sex frowns upon me. Her somewhat mature charms are not
 for Jean Marie Rivarol. She has cruelly said that her years demand of me
 filial rather than connubial regard. Is love a matter of years or of
 eternity? This question did I put to the cold, yet lovely Jocasta."
+
 "Jocasta Surd!" I remarked in surprise, "Abscissa's aunt!"
+
 "The same," he said, sadly. "I will not attempt to conceal that upon the
 maiden Jocasta my maiden heart has been bestowed. Give me your hand, my
 nephew in affliction as in affection!"
+
 Rivarol dashed away a not discreditable tear, and resumed:
+
 "My only hope lies in this discovery of perpetual motion. It will give
 me the fame, the wealth. Can Jocasta refuse these? If she can, there is
 only the trap-door and--Kerguellen's Land!"
+
 I bashfully asked to see the perpetual-motion machine. My uncle in
 affliction shook his head.
+
 "At another time," he said. "Suffice it at present to say, that it is
 something upon the principle of a woman's tongue. But you see now why we
 must turn in your case to the alternative condition--infinite speed.
@@ -329,25 +385,34 @@ in the speed of the long arm. It would be difficult to demonstrate this
 practically to the Professor. We must seek another solution. Jean Marie
 will meditate. Come to me in a fortnight. Good-night. But stop! Have you
 the money--_das Geld?_"
+
 "Much more than I need."
+
 "Good! Let us strike hands. Gold and Knowledge; Science and Love. What
 may not such a partnership achieve? We go to conquer thee, Abscissa.
 _Vorwärts!_"
+
 When, at the end of a fortnight, I sought Rivarol's chamber, I passed
 with some little trepidation over the terminus of the Air Line to
 Kerguellen's Land, and evaded the extended arms of the Petty Cash
 Adjuster. Rivarol drew a mug of ale for me, and filled himself a retort
 of his own peculiar beverage.
+
 "Come," he said at length. "Let us drink success to the TACHYPOMP."
+
 "The TACHYPOMP?"
+
 "Yes. Why not? _Tachu_, quickly, and _pempo, pepompa_ to send. May it
 send you quickly to your wedding-day. Abscissa is yours. It is done.
 When shall we start for the prairies?"
+
 "Where is it?" I asked, looking in vain around the room for any
 contrivance which might seem calculated to advance matrimonial
 prospects.
+
 "It is here," and he gave his forehead a significant tap. Then he held
 forth didactically.
+
 "There is force enough in existence to yield us a speed of sixty miles a
 minute, or even more. All we need is the knowledge how to combine and
 apply it. The wise man will not attempt to make some great force yield
@@ -363,10 +428,13 @@ cannot readily add speed to speed, as we add force to force. My
 discovery is simply the utilization of a principle which extorts an
 increment of speed from each increment of power. But this is the
 metaphysics of physics. Let us be practical or nothing.
+
 "When you have walked forward, on a moving train, from the rear car,
 toward the engine, did you ever think what you were really doing?"
+
 "Why, yes, I have generally been going to the smoking-car to have a
 cigar."
+
 "Tut, tut--not that! I mean, did it ever occur to you on such an
 occasion, that absolutely you were moving faster than the train? The
 train passes the telegraph poles at the rate of thirty miles an hour,
@@ -374,7 +442,9 @@ say. You walk toward the smoking-car at the rate of four miles an hour.
 Then _you_ pass the telegraph poles at the rate of thirty-four miles.
 Your absolute speed is the speed of the engine, plus the speed of your
 own locomotion. Do you follow me?"
+
 I began to get an inkling of his meaning, and told him so.
+
 "Very well. Let us advance a step. Your addition to the speed of the
 engine is trivial, and the space in which you can exercise it, limited.
 Now suppose two stations, A and B, two miles distant by the track.
@@ -394,9 +464,12 @@ than if you had lazily sat down upon the rear car and talked politics
 with the brakeman. You have diminished the time by one half. You have
 added your speed to that of the locomotive to some purpose. _Nicht
 wahr?_"
+
 I saw it perfectly; much plainer, perhaps, for his putting in the clause
 about Abscissa.
+
 He continued:
+
 "This illustration, though a slow one, leads up to a principle which may
 be carried to any extent. Our first anxiety will be to spare your legs
 and wind. Let us suppose that the two miles of track are perfectly
@@ -411,13 +484,17 @@ reaches B in one minute, the dummy, having gone a mile a-top the
 platform car, reaches B also. We have so combined the speeds of those
 two engines as to accomplish two miles in one minute. Is this all we can
 do? Prepare to exercise your imagination."
+
 I lit my pipe.
+
 "Still two miles of straight track, between A and B. On the track a long
 platform car, reaching from A to within a quarter of a mile of B. We
 will now discard ordinary locomotives and adopt as our motive power a
 series of compact magnetic engines, distributed underneath the platform
 car, all along its length."
+
 "I don't understand those magnetic engines."
+
 "Well, each of them consists of a great iron horseshoe, rendered
 alternately a magnet and not a magnet by an intermittent current of
 electricity from a battery, this current in its turn regulated by
@@ -427,9 +504,11 @@ circuit, the next second, it is not a magnet, and it lets the clapper
 go. The clapper, oscillating to and fro, imparts a rotatory motion to a
 fly-wheel, which transmits it to the drivers on the rails. Such are our
 motors. They are no novelty, for trial has proved them practicable.
+
 "With a magnetic engine for every truck of wheels, we can reasonably
 expect to move our immense car, and to drive it along at a speed, say,
 of a mile a minute.
+
 "The forward end, having but a quarter of a mile to go, will reach B in
 fifteen seconds. We will call this platform car number 1. On top of
 number 1 are laid rails on which another platform car, number 2, a
@@ -440,6 +519,7 @@ number 2. Number 2 is a mile and a half long; number 3 a mile and a
 quarter. Above, on successive levels, are number 4, a mile long; number
 5, three quarters of a mile; number 6, half a mile; number 7, a quarter
 of a mile, and number 8, a short passenger car, on top of all.
+
 "Each car moves upon the car beneath it, independently of all the
 others, at the rate of a mile a minute. Each car has its own magnetic
 engines. Well, the train being drawn up with the latter end of each car
@@ -447,6 +527,7 @@ resting against a lofty bumping-post at A, Tom Furnace, the gentlemanly
 conductor, and Jean Marie Rivarol, engineer, mount by a long ladder to
 the exalted number 8. The complicated mechanism is set in motion. What
 happens?
+
 "Number 8 runs a quarter of a mile in fifteen seconds and reaches the
 end of number 7. Meanwhile number 7 has run a quarter of a mile in the
 same time and reached the end of number 6; number 6, a quarter of a mile
@@ -464,10 +545,12 @@ the eight did their work at once, during the same fifteen seconds.
 Consequently we have been whizzed through the air at the somewhat
 startling speed of seven and a half seconds to the mile. This is the
 Tachypomp. Does it justify the name?"
+
 Although a little bewildered by the complexity of cars, I apprehended
 the general principle of the machine. I made a diagram, and understood
 it much better. "You have merely improved on the idea of my moving
 faster than the train when I was going to the smoking car?"
+
 "Precisely. So far we have kept within the bounds of the practicable. To
 satisfy the Professor, you can theorize in something after this fashion:
 If we double the number of cars, thus decreasing by one half the
@@ -486,8 +569,10 @@ amuse himself calculating the rate of car number 640. Just whisper to
 him that when he has an infinite number of cars with an infinitesimal
 difference in their lengths, he will have obtained that infinite speed
 for which he seems to yearn. Then demand Abscissa."
+
 I wrung my friend's hand in silent and grateful admiration. I could say
 nothing.
+
 "You have listened to the man of theory," he said proudly. "You shall
 now behold the practical engineer. We will go to the west of the
 Mississippi and find some suitably level locality. We will erect thereon
@@ -500,26 +585,32 @@ much to do. We must ship to St. Joseph the vast amount of material to
 be employed in the construction of the Tachypomp. We must engage a small
 army of workmen to effect that construction, for we are to annihilate
 time and space. Perhaps you had better see your bankers."
+
 I rushed impetuously to the door. There should be no delay.
+
 "Stop! stop! _Um Gottes Willen_, stop!" shrieked Rivarol. "I launched my
 butcher this morning and I haven't bolted the----"
+
 But it was too late. I was upon the trap. It swung open with a crash,
 and I was plunged down, down, down! I felt as if I were falling through
 illimitable space. I remember wondering, as I rushed through the
 darkness, whether I should reach Kerguellen's Land or stop at the
 centre. It seemed an eternity. Then my course was suddenly and painfully
 arrested.
+
 I opened my eyes. Around me were the walls of Professor Surd's study.
 Under me was a hard, unyielding plane which I knew too well was
 Professor Surd's study floor. Behind me was the black, slippery,
 hair-cloth chair which had belched me forth, much as the whale served
 Jonah. In front of me stood Professor Surd himself, looking down with a
 not unpleasant smile.
+
 "Good-evening, Mr. Furnace. Let me help you up. You look tired, sir. No
 wonder you fell asleep when I kept you so long waiting. Shall I get you
 a glass of wine? No? By the way, since receiving your letter I find
 that you are a son of my old friend, Judge Furnace. I have made
 inquiries, and see no reason why you should not make Abscissa a good
 husband."
+
 Still I can see no reason why the Tachypomp should not have succeeded.
 Can you?
